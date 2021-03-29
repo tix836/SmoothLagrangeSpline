@@ -1,0 +1,17 @@
+﻿  Source.cpp
+C:\Users\Anton\source\repos\SplineNew\SplineNew\Source.cpp(81,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Anton\source\repos\SplineNew\SplineNew\Source.cpp(92,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Anton\source\repos\SplineNew\SplineNew\Source.cpp(175,9): warning C4101: normF: неиспользованная локальная переменная
+C:\Users\Anton\source\repos\SplineNew\SplineNew\Source.cpp(347,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Anton\source\repos\SplineNew\SplineNew\Source.cpp(349,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Anton\source\repos\SplineNew\SplineNew\Source.cpp(369,18): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Anton\source\repos\SplineNew\SplineNew\Source.cpp(370,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Anton\source\repos\SplineNew\SplineNew\Source.cpp(374,33): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\Anton\source\repos\SplineNew\SplineNew\Source.cpp(383,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Anton\source\repos\SplineNew\SplineNew\Source.cpp(453,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Anton\source\repos\SplineNew\SplineNew\Source.cpp(472,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Anton\source\repos\SplineNew\SplineNew\Source.cpp(518,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Anton\source\repos\SplineNew\SplineNew\Source.cpp(520,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Anton\source\repos\SplineNew\SplineNew\Source.cpp(528,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Anton\source\repos\SplineNew\SplineNew\Source.cpp(449): warning C4715: Spline: значение возвращается не при всех путях выполнения
+  SplineNew.vcxproj -> C:\Users\Anton\source\repos\SplineNew\Debug\SplineNew.exe
